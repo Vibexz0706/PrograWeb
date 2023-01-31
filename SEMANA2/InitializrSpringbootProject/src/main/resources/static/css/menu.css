@@ -68,3 +68,7 @@ img{
     width: 50%;
     margin-bottom: 20px;
 }
+
+tr:nth-child(odd){
+    background-color: red;
+}
